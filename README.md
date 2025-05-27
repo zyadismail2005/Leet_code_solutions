@@ -19,4 +19,5 @@ This repo contains my solutions to SQL problems on LeetCode.
 | Combine Two Tables      | Easy       | Done ✅   |
 | Second Highest Salary   | Medium     | Done ✅   |
 | Customers Who Never Order| Easy      | Done ✅   |
+| Employ. Earn More Money |  Easy      | Done ✅   |
 |                         |            |           |
