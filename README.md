@@ -18,4 +18,5 @@ This repo contains my solutions to SQL problems on LeetCode.
 |-------------------------|------------|-----------|
 | Combine Two Tables      | Easy       | Done ✅   |
 | Second Highest Salary   | Medium     | Done ✅   |
-| Employee Bonus          | Medium     | Soon      |
+| Customers Who Never Order| Easy      | Done ✅   |
+|                         |            |           |
